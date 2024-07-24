@@ -154,7 +154,6 @@
       </td>
     </tr>
   </table>
-  <br>
 </div>
 
 <h2 align="center"> My GitHub Stats </h2>
