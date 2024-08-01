@@ -1,7 +1,7 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">&nbsp;Hi, This is MIDAS.&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p>Experienced Fullstack Engineer with proficiency in developing high-quality software solutions and collaborating with cross-functional teams. Skilled in JavaScript, HTML, CSS, TypeScript, Go, Python, SQL, Dart, GraphQL, Sass, PHP, Solidity, WASM, Python 3, HTML5, CSS3 and Java; with a passion for continuous learning and staying up-to-date with emerging technologies.</p>
+<p>Experienced Fullstack Engineer with proficiency in developing high-quality software solutions and collaborating with cross-functional teams. Skilled in JavaScript, TypeScript, Go, Python, SQL, Flutter, GraphQL, SASS, PHP, Laravel, Solidity, WASM, Python 3, HTML5, CSS3 and ReactJS, NextJS, Node, ExpressJS; with a passion for continuous learning and staying up-to-date with emerging technologies.</p>
 
 <br>
 
