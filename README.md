@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shinevue&theme=onedark&column=9" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shinevue&theme=onedark&column=10" />
 </p>
 
 <h2 align="center">Talented <b>FULLSTACK</b> | <b>BLOCKCHAIN</b>   Developer</h2>
