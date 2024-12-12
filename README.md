@@ -157,8 +157,9 @@
 <h2 align="center"> My GitHub Stats </h2>
 
 <div align="center">
+ <img align="left" alt="Code" width="40%" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
  <a href="https://github.com/mythofmidas?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=devlancer-lucas&hide_title=true&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="53%" alt="@mythofmidas's github-readme-stats"/></a>
- <a href="https://github.com/mythofmidas?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=devlancer-lucas&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="45%" alt="@mythofmidas's github-readme-streak-stats"/></a>
+<!--  <a href="https://github.com/mythofmidas?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=devlancer-lucas&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="45%" alt="@mythofmidas's github-readme-streak-stats"/></a> -->
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
